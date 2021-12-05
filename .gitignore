@@ -2,3 +2,7 @@
 **/.DS_Store
 lightning_logs/
 data/
+.idea/
+mvi_sp/
+lightning_logs/
+wandb/
